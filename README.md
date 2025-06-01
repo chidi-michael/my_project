@@ -1,10 +1,10 @@
 # my_project
 
 ## Overview
-This repository contains [project description].
+This repository contains social media engagement 
 
 ## Repository Structure
-- `data/`: Datasets (raw and processed). Download using `dvc pull`.
+- `data/`: Datasets (social media engagements dataset. Download using `kaggle`.
 - `notebooks/`: Jupyter notebooks for analysis and experiments.
 - `src/`: Modular Python code for data processing and modeling.
 - `models/`: Trained models (large files stored externally).
